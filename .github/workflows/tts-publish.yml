@@ -1,0 +1,29 @@
+name: Generar audio y publicar episodio
+
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install edge-tts mutagen
+      - run: python publish.py
+      - name: Commit y push si hay episodios nuevos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add episodes feed.xml
+          git diff --cached --quiet && echo "Nada nuevo" && exit 0
+          git commit -m "Audio y feed: episodio generado por Actions"
+          git push
