@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 13 de agosto de 2026</title>
+      <description>Google reorganiza el liderazgo de DeepMind frente a OpenAI y Anthropic, ChatGPT expande su publicidad a México y Brasil, récord de capital de riesgo fintech en Latinoamérica, y SoundHound AI compra LivePerson.</description>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-13</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-13.mp3" length="2992464" type="audio/mpeg"/>
+      <itunes:duration>498</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 12 de agosto de 2026</title>
       <description>Nvidia arma alianza de quinientos mil millones con Wall Street para infraestructura de IA, la Ley de IA de la UE ya es exigible, la fintech chilena Justo levanta ronda, y Teledyne compra Varex Imaging por mil cien millones.</description>
       <pubDate>Wed, 12 Aug 2026 07:00:00 -0400</pubDate>
