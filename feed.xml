@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 14 de agosto de 2026</title>
+      <description>Anthropic reporta su primera utilidad trimestral, OpenAI se acerca a su salida a bolsa, Valar Atomics levanta mil millones para energía nuclear, Chile crece en startups y Boeing vende activos de aviación a Archer.</description>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-14</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-14.mp3" length="3075264" type="audio/mpeg"/>
+      <itunes:duration>512</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 13 de agosto de 2026</title>
       <description>Google reorganiza el liderazgo de DeepMind frente a OpenAI y Anthropic, ChatGPT expande su publicidad a México y Brasil, récord de capital de riesgo fintech en Latinoamérica, y SoundHound AI compra LivePerson.</description>
       <pubDate>Thu, 13 Aug 2026 07:00:00 -0400</pubDate>
