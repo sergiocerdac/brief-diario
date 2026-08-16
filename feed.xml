@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 16 de agosto de 2026</title>
+      <description>Brecha de datos en tldv, mil millones para reactores nucleares de Valar Atomics para IA, radiografía del ecosistema startup chileno y nuevas fusiones que se suman a los 600 mil millones pendientes.</description>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-16</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-16.mp3" length="2765376" type="audio/mpeg"/>
+      <itunes:duration>460</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 15 de agosto de 2026</title>
       <description>Entra en vigor el AI Act europeo, Databricks levanta cinco mil millones, un repaso del venture capital en Chile y Latinoamérica, y la fusión Paramount-Warner Bros sigue trabada en tribunales.</description>
       <pubDate>Sat, 15 Aug 2026 07:00:00 -0400</pubDate>
