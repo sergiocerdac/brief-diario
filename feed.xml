@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 17 de agosto de 2026</title>
+      <description>Stripe compra OpenRouter por más de 7.000 millones, Databricks levanta 5.000 millones, Yuno capta 45 millones y Chile cierra 2025 con 854 millones en venture capital.</description>
+      <pubDate>Mon, 17 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-17</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-17.mp3" length="2856240" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 16 de agosto de 2026</title>
       <description>Brecha de datos en tldv, mil millones para reactores nucleares de Valar Atomics para IA, radiografía del ecosistema startup chileno y nuevas fusiones que se suman a los 600 mil millones pendientes.</description>
       <pubDate>Sun, 16 Aug 2026 07:00:00 -0400</pubDate>
