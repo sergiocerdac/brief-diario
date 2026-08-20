@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 20 de agosto de 2026</title>
+      <description>Unitree Robotics debuta en bolsa con alza de más de 460%, Nvidia negocia invertir en Mercor a 20.000 millones, Madison Air compra ebm-papst por 5.400 millones, Kesh capta 110 millones y el Mapa Fintech Chile 2026 crece 15,3%.</description>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-20</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-20.mp3" length="2734128" type="audio/mpeg"/>
+      <itunes:duration>455</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 19 de agosto de 2026</title>
       <description>Google lanza Gemini 3.7 Flash y sube precios en 2027, Stripe compra OpenRouter por más de 7.000 millones, MGX cierra fondo de 49.000 millones, Chile cierra 2025 con hasta 854 millones en VC y Alibaba vende su negocio de videojuegos.</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 -0400</pubDate>
