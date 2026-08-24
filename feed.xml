@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 24 de agosto de 2026</title>
+      <description>IPO histórica de Anthropic a la vista, Google toma participación en Marvell por chips de IA, S-1 de OpenAI, CORFO lanza Venture Capital Chile y súper ciclo de M&amp;A tecnológico.</description>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-24</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-24.mp3" length="2747520" type="audio/mpeg"/>
+      <itunes:duration>457</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 23 de agosto de 2026</title>
       <description>Anthropic prepara IPO récord, Nvidia invierte siete mil millones en Poolside, VC global en modo barra, Corfo impulsa capital extranjero en Chile y la fusión Paramount-Warner sigue trabada en tribunales.</description>
       <pubDate>Sun, 23 Aug 2026 07:00:00 -0400</pubDate>
