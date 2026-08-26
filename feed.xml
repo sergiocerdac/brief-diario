@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del miércoles 26 de agosto de 2026</title>
+      <description>Nvidia presenta su chip Vera en Hot Chips, Google Cloud alerta sobre gobernanza de agentes de IA, Infineon compra C2i Semiconductors, récord fintech en Latam con 3.200 millones y guerra de ofertas por Shell Chemicals.</description>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-26</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-26.mp3" length="3051648" type="audio/mpeg"/>
+      <itunes:duration>508</itunes:duration>
+    </item>
+    <item>
       <title>Brief del martes 25 de agosto de 2026</title>
       <description>Nvidia negocia entrar a Perplexity sobre 30 mil millones, X Peng levanta 900 millones para robots humanoides, el VC chileno se recupera con reglas más duras y arranca la fiscalización de transparencia de IA en la UE.</description>
       <pubDate>Tue, 25 Aug 2026 07:00:00 -0400</pubDate>
