@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 27 de agosto de 2026</title>
+      <description>OpenAI supera a Nvidia con su chip Jalapeño, Nvidia negocia comprar Hugging Face por 12.900 millones, Anthropic firma 45.000 millones con Nscale antes de su IPO, Groq corrige valorización y Chile bate récord de venture capital.</description>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-27</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-27.mp3" length="3125232" type="audio/mpeg"/>
+      <itunes:duration>520</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 26 de agosto de 2026</title>
       <description>Nvidia presenta su chip Vera en Hot Chips, Google Cloud alerta sobre gobernanza de agentes de IA, Infineon compra C2i Semiconductors, récord fintech en Latam con 3.200 millones y guerra de ofertas por Shell Chemicals.</description>
       <pubDate>Wed, 26 Aug 2026 07:00:00 -0400</pubDate>
