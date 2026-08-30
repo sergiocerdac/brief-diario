@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 30 de agosto de 2026</title>
+      <description>OpenAI cierra ronda récord de 122 mil millones con Amazon, Nvidia confirma sus chips Vera Rubin, A2A y MCP se unifican, Corfo abre puertas a Europa y McKesson compra Precision Medicine Group por 2 mil 250 millones.</description>
+      <pubDate>Sun, 30 Aug 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-08-30</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-08-30.mp3" length="3163824" type="audio/mpeg"/>
+      <itunes:duration>527</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 29 de agosto de 2026</title>
       <description>Nvidia pausa su financiamiento a nubes de IA por riesgo antitrust, Anthropic gana fallo frente al Pentágono, Corfo selecciona 145 emprendimientos en Chile y un repaso del venture capital en Latinoamérica.</description>
       <pubDate>Sat, 29 Aug 2026 07:00:00 -0400</pubDate>
