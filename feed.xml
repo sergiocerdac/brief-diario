@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 1 de septiembre de 2026</title>
+      <description>OpenAI cierra ronda récord de 122 mil millones de dólares, el venture capital global toca los 510 mil millones en el semestre, Chile y Toku destacan en VC latinoamericano, Madison Air compra Airflow Technologies y Palantir dispara sus ingresos.</description>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-01</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-01.mp3" length="2816928" type="audio/mpeg"/>
+      <itunes:duration>469</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 31 de agosto de 2026</title>
       <description>Anthropic busca ronda mayor a los 86 mil millones de SpaceX, DeepSeek cierra 7 mil 400 millones camino a IPO, 100 empresas firman carta por ciberseguridad en IA, Uber invierte en la fintech chilena Galgo y Charter compra Cox por 34 mil 500 millones.</description>
       <pubDate>Mon, 31 Aug 2026 07:00:00 -0400</pubDate>
