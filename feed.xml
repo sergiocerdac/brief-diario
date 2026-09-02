@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del miércoles 2 de septiembre de 2026</title>
+      <description>Broadcom y su negocio de IA, récord de 510 mil millones en venture capital global, apertura de Start Up Chile generación 12, balance VC Chile-LatAm y OpenAI vs Anthropic en mercado corporativo.</description>
+      <pubDate>Wed, 02 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-02</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-02.mp3" length="2788704" type="audio/mpeg"/>
+      <itunes:duration>464</itunes:duration>
+    </item>
+    <item>
       <title>Brief del martes 1 de septiembre de 2026</title>
       <description>OpenAI cierra ronda récord de 122 mil millones de dólares, el venture capital global toca los 510 mil millones en el semestre, Chile y Toku destacan en VC latinoamericano, Madison Air compra Airflow Technologies y Palantir dispara sus ingresos.</description>
       <pubDate>Tue, 01 Sep 2026 07:00:00 -0400</pubDate>
