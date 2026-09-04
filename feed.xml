@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 4 de septiembre de 2026</title>
+      <description>G20 fija reglas livianas para la IA, OpenAI cruza umbral crítico de riesgo cibernético con Astra, rondas de Taktile y Assort Health, Toku bate récord en Chile y Eli Lilly compra Merida por 2.900 millones.</description>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-04</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-04.mp3" length="3015504" type="audio/mpeg"/>
+      <itunes:duration>502</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 3 de septiembre de 2026</title>
       <description>OpenAI lanza voz nativa GPT Live, McKinsey revela auge de agentes internos, rondas de Félix y David, VC chileno 2025 y Aon compra USI por 17.000 millones.</description>
       <pubDate>Thu, 03 Sep 2026 07:00:00 -0400</pubDate>
