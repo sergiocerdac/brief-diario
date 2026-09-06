@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 6 de septiembre de 2026</title>
+      <description>Claude de Anthropic formaliza el último teorema de Fermat, Gimlet Labs levanta 300 millones para infraestructura de IA agéntica, VC en Chile sube 160% y Veritas Capital compra Bodycote por 2.500 millones.</description>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-06</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-06.mp3" length="2843136" type="audio/mpeg"/>
+      <itunes:duration>473</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 5 de septiembre de 2026</title>
       <description>OpenAI lanza GPT-6 Astra y habla de AGI, SoundHound cierra la compra de LivePerson, panorama de VC global y LatAm, y EQT compra McGill and Partners por 2.000 millones mientras Khosla adquiere un equipo deportivo por 9.600 millones.</description>
       <pubDate>Sat, 05 Sep 2026 07:00:00 -0400</pubDate>
