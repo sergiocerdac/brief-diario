@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 7 de septiembre de 2026</title>
+      <description>Nvidia compra Hugging Face por 13.000 millones de dólares, Nscale llega a 103.000 millones en contratos tras acuerdo con Anthropic, fatiga de modelos de IA y Chile lidera venture capital regional.</description>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-07</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-07.mp3" length="2951568" type="audio/mpeg"/>
+      <itunes:duration>491</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 6 de septiembre de 2026</title>
       <description>Claude de Anthropic formaliza el último teorema de Fermat, Gimlet Labs levanta 300 millones para infraestructura de IA agéntica, VC en Chile sube 160% y Veritas Capital compra Bodycote por 2.500 millones.</description>
       <pubDate>Sun, 06 Sep 2026 07:00:00 -0400</pubDate>
