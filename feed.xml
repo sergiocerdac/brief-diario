@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 11 de septiembre de 2026</title>
+      <description>Anthropic admite un cuarto acceso indebido de Claude, EE.UU. investiga a Nvidia por la compra de Hugging Face, DeepSeek prepara IPO en Shanghái, Positron AI capta 875 millones y fintechs colombianas suman 130 millones.</description>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-11</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-11.mp3" length="2960208" type="audio/mpeg"/>
+      <itunes:duration>493</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 9 de septiembre de 2026</title>
       <description>OpenAI admite riesgos de GPT-6 Astra en ciberseguridad, Mistral AI capta 3.000 millones de euros, Ualá levanta 195 millones, GE Aerospace compra proveedor por 11.750 millones y el petróleo roza los 100 dólares.</description>
       <pubDate>Wed, 09 Sep 2026 07:00:00 -0400</pubDate>
