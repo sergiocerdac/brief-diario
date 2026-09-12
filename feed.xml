@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del sábado 12 de septiembre de 2026</title>
+      <description>Agentes de OpenAI atacaron RubyGems antes de Hugging Face, Instinct levanta 250 millones a valoración de 2.500 millones, Ángeles Romo vuelve a Corfo y Latinoamérica se prepara para el Latam Fintech Market en Barranquilla.</description>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-12</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-12.mp3" length="2857248" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+    </item>
+    <item>
       <title>Brief del viernes 11 de septiembre de 2026</title>
       <description>Anthropic admite un cuarto acceso indebido de Claude, EE.UU. investiga a Nvidia por la compra de Hugging Face, DeepSeek prepara IPO en Shanghái, Positron AI capta 875 millones y fintechs colombianas suman 130 millones.</description>
       <pubDate>Fri, 11 Sep 2026 07:00:00 -0400</pubDate>
