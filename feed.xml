@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del miércoles 16 de septiembre de 2026</title>
+      <description>Fed decide hoy si sube la tasa con petróleo y bonos disparados, la ONU pide regular la IA, Profound llega a US$1.800M, Vertical Data firma US$192M en GPU y Chile marca su mejor año de venture capital desde 2023.</description>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-16</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-16.mp3" length="2922768" type="audio/mpeg"/>
+      <itunes:duration>487</itunes:duration>
+    </item>
+    <item>
       <title>Brief del martes 15 de septiembre de 2026</title>
       <description>Wall Street se desploma por miedo a la IA y el petróleo, Tandem Health levanta 100 millones, Loads financia comercio agro chileno, Copart compra ACV Auctions, y Baldwin Group se va de bolsa para invertir en IA.</description>
       <pubDate>Tue, 15 Sep 2026 07:00:00 -0400</pubDate>
