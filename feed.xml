@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 18 de septiembre de 2026</title>
+      <description>El DOJ despeja la coordinación en seguridad de IA, OpenAI y Microsoft admiten un "bucle de perdición" para la web, Sling Therapeutics levanta US$123M, Chile lidera como el VC más eficiente y Baldwin Group sale de bolsa por US$7.700M.</description>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-18</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-18.mp3" length="2966832" type="audio/mpeg"/>
+      <itunes:duration>494</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 17 de septiembre de 2026</title>
       <description>La Fed sube tasas por primera vez en 3 años y Wall Street cae, OpenAI, Anthropic y Google DeepMind crean un organismo de supervisión de IA mientras Zuckerberg lo rechaza, Kesh levanta US$110M y Start-Up Chile abre su generación 12.</description>
       <pubDate>Thu, 17 Sep 2026 07:00:00 -0400</pubDate>
