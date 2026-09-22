@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 22 de septiembre de 2026</title>
+      <description>OpenAI lanza GPT seis Sol y Anthropic responde, Huang choca con Amodei y Altman por seguridad, Microsoft admite riesgo de "robo" en datos de entrenamiento, VC global sigue en IA, Chile eficiente y Cognex compra RealSense.</description>
+      <pubDate>Tue, 22 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-22</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-22.mp3" length="2839104" type="audio/mpeg"/>
+      <itunes:duration>473</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 21 de septiembre de 2026</title>
       <description>Anthropic posterga su IPO a noviembre, el Pentágono casi genera un incidente por confiar en un chatbot, el VC global bate récord pero se concentra, Start Up Chile abre postulaciones y Copart compra ACV Auctions.</description>
       <pubDate>Mon, 21 Sep 2026 07:00:00 -0400</pubDate>
