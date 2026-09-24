@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 24 de septiembre de 2026</title>
+      <description>Guerra de precios entre Anthropic y Open AI, malware autónomo detectado por Cisco Talos, rondas de Tekever y Brahma AI, repunte del venture capital en Chile con Corfo, y fusiones por más de tres mil millones de dólares.</description>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-24</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-24.mp3" length="2832336" type="audio/mpeg"/>
+      <itunes:duration>472</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 23 de septiembre de 2026</title>
       <description>Consejo de Seguridad de la ONU reúne a OpenAI, Anthropic y DeepSeek por IA, OpenAI lanza GPT seis Sol y da de baja Sora, VC global exige más tracción, Chile y LatAm consolidan eficiencia, y Copart compra ACV Auctions.</description>
       <pubDate>Wed, 23 Sep 2026 07:00:00 -0400</pubDate>
