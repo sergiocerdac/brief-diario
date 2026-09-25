@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 25 de septiembre de 2026</title>
+      <description>Open AI reconoce brecha de un agente en el Medicare australiano, Amazon abre Seller Central a agentes de inteligencia artificial, rondas de Temporal y D Robotics, la mayor ronda fintech de Centroamérica con Ábaco, y IBM compra Logiq Consulting.</description>
+      <pubDate>Fri, 25 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-25</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-25.mp3" length="2946384" type="audio/mpeg"/>
+      <itunes:duration>491</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 24 de septiembre de 2026</title>
       <description>Guerra de precios entre Anthropic y Open AI, malware autónomo detectado por Cisco Talos, rondas de Tekever y Brahma AI, repunte del venture capital en Chile con Corfo, y fusiones por más de tres mil millones de dólares.</description>
       <pubDate>Thu, 24 Sep 2026 07:00:00 -0400</pubDate>
