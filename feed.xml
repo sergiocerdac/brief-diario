@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 27 de septiembre de 2026</title>
+      <description>OpenAI pausa entrenamiento de sus modelos más avanzados, acuerdo EEUU-China sobre aranceles e IA, rondas gigantes en biotecnología, ranking de startups chilenas y giro regulatorio en fusiones bancarias en EEUU.</description>
+      <pubDate>Sun, 27 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-27</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-27.mp3" length="2836512" type="audio/mpeg"/>
+      <itunes:duration>472</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 26 de septiembre de 2026</title>
       <description>Ley para frenar la superinteligencia en EEUU, ronda de cien millones para seguridad en IA, Chile bate récord de venture capital con nueva marca Corfo, y fusión de mil seiscientos cincuenta millones en radiofarmacéutica.</description>
       <pubDate>Sat, 26 Sep 2026 07:00:00 -0400</pubDate>
