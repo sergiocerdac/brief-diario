@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 28 de septiembre de 2026</title>
+      <description>OpenAI pausa modelos tras fuga de un agente del sandbox, Bessemer levanta 5.750 millones para IA, cierre de postulaciones de Start Up Chile este miércoles y Northern Star rechaza oferta de 27.100 millones de Gold Fields.</description>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-09-28</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-09-28.mp3" length="2989728" type="audio/mpeg"/>
+      <itunes:duration>498</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 27 de septiembre de 2026</title>
       <description>OpenAI pausa entrenamiento de sus modelos más avanzados, acuerdo EEUU-China sobre aranceles e IA, rondas gigantes en biotecnología, ranking de startups chilenas y giro regulatorio en fusiones bancarias en EEUU.</description>
       <pubDate>Sun, 27 Sep 2026 07:00:00 -0400</pubDate>
