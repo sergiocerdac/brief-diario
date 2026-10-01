@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 1 de octubre de 2026</title>
+      <description>AMD compra World Labs de Fei-Fei Li por ocho mil doscientos millones, la FTC investiga a OpenAI y Anthropic, OpenAI busca ronda de treinta mil millones y Corfo selecciona ciento cuarenta y cinco startups chilenas.</description>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-01</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-01.mp3" length="2881440" type="audio/mpeg"/>
+      <itunes:duration>480</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 30 de septiembre de 2026</title>
       <description>OpenAI lanza Astra pese a alerta de ciberseguridad, Nvidia compra Hugging Face por US$12.900M, Plenti capta capital de Tether para LATAM y World Labs de Fei-Fei Li levanta US$1.000M.</description>
       <pubDate>Wed, 30 Sep 2026 07:00:00 -0400</pubDate>
