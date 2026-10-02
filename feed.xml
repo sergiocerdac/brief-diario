@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 2 de octubre de 2026</title>
+      <description>Guerra de precios en IA entre OpenAI, Google y Anthropic, mega rondas en defensa y energía, Chile cierra su mejor año de venture capital, Corfo selecciona 145 startups y el cierre de gobierno en EE.UU. golpea las fusiones y adquisiciones.</description>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-02</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-02.mp3" length="2949696" type="audio/mpeg"/>
+      <itunes:duration>491</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 1 de octubre de 2026</title>
       <description>AMD compra World Labs de Fei-Fei Li por ocho mil doscientos millones, la FTC investiga a OpenAI y Anthropic, OpenAI busca ronda de treinta mil millones y Corfo selecciona ciento cuarenta y cinco startups chilenas.</description>
       <pubDate>Thu, 01 Oct 2026 07:00:00 -0400</pubDate>
