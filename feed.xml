@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 6 de octubre de 2026</title>
+      <description>DeepSeek V4 Pro y la carrera global de IA, ronda de 150M para Supabase y Turso, Reuse chilena levanta 21M, y fusiones por 28 mil millones en PTC, RXO y Synaptics.</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-06</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-06.mp3" length="2898720" type="audio/mpeg"/>
+      <itunes:duration>483</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 5 de octubre de 2026</title>
       <description>Guerra de precios en IA entre Google, OpenAI y Anthropic, ronda de mil millones para Instinct, VC en Chile sube 160% en 2025, startups LATAM cerca de unicornio y octubre explosivo en M&amp;A.</description>
       <pubDate>Mon, 05 Oct 2026 07:00:00 -0400</pubDate>
