@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 8 de octubre de 2026</title>
+      <description>Open AI despliega GPT-6 e interfaz interactiva, Anthropic lanza Haiku 5.5 y entra a Google Workspace, capital de riesgo global se concentra en IA, y Chile y LatAm reportan datos de VC del semestre.</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-08</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-08.mp3" length="2807280" type="audio/mpeg"/>
+      <itunes:duration>467</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 7 de octubre de 2026</title>
       <description>Anthropic rumbo a una IPO de dos billones de dólares, ronda de 4.000 millones para Lambda, el VC en Latinoamérica se enfría mientras Chile remonta, SAP compra TechWolf y OpenAI frena su modelo Astra por riesgo de ciberseguridad.</description>
       <pubDate>Wed, 07 Oct 2026 07:00:00 -0400</pubDate>
