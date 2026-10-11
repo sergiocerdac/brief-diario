@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 11 de octubre de 2026</title>
+      <description>Anthropic avanza hacia su salida a bolsa en Nasdaq, el venture capital global sigue en inteligencia artificial, Chile tuvo menos rondas pero más grandes en 2025, y Crescent Energy compra activos de Devon Energy por 4.200 millones de dólares.</description>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-11</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-11.mp3" length="2669328" type="audio/mpeg"/>
+      <itunes:duration>444</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 10 de octubre de 2026</title>
       <description>GPT seis con interfaz inteligente, Gemini cuatro Argón y Claude Haiku cinco punto cinco; Manus levanta quinientos millones tras caída de compra de Meta; Lambda prepara ronda de cuatro mil millones; venture capital repunta en Chile y Latinoamérica.</description>
       <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
