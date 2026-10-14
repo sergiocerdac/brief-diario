@@ -10,6 +10,30 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del miércoles 14 de octubre de 2026</title>
+      <description>Meta lanza Muse Wonder y Microsoft su chip Maia 300, Arena y Nous Research cierran rondas sobre 90 millones, Siigo compra la chilena Bsale y Kimberly-Clark avanza en la compra de Kenvue por 40 mil millones.</description>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-14</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-14.mp3" length="3008880" type="audio/mpeg"/>
+      <itunes:duration>501</itunes:duration>
+    </item>
+    <item>
+      <title>Brief del martes 13 de octubre de 2026</title>
+      <description>OpenAI, Google y Anthropic avanzan en un organismo conjunto de seguridad en IA, VC global apuesta por energía nuclear, Reuse levanta serie A en Chile y KKR compra Gen II Fund Services por 5.100 millones.</description>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-13</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-13.mp3" length="2996784" type="audio/mpeg"/>
+      <itunes:duration>499</itunes:duration>
+    </item>
+    <item>
+      <title>Brief del lunes 12 de octubre de 2026</title>
+      <description>Las 10 mayores IA ya son el 42% de la bolsa de EE.UU., Ramp llega a US$60.000 millones, Latam capta US$1.900 millones con menos rondas, y Amazon negocia comprar Decart por US$7.000 millones.</description>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-12</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-12.mp3" length="3047328" type="audio/mpeg"/>
+      <itunes:duration>507</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 11 de octubre de 2026</title>
       <description>Anthropic avanza hacia su salida a bolsa en Nasdaq, el venture capital global sigue en inteligencia artificial, Chile tuvo menos rondas pero más grandes en 2025, y Crescent Energy compra activos de Devon Energy por 4.200 millones de dólares.</description>
       <pubDate>Sun, 11 Oct 2026 07:00:00 -0400</pubDate>
