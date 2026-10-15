@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 15 de octubre de 2026</title>
+      <description>Google lanza Gemini 4 Argón entre dudas internas, Anthropic avanza su salida a bolsa, EliseAI duplica valorización a US$4.000M, VC en Chile crece 160% y IonQ compra Elisity por US$1.300M.</description>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-15</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-15.mp3" length="3042720" type="audio/mpeg"/>
+      <itunes:duration>507</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 14 de octubre de 2026</title>
       <description>Meta lanza Muse Wonder y Microsoft su chip Maia 300, Arena y Nous Research cierran rondas sobre 90 millones, Siigo compra la chilena Bsale y Kimberly-Clark avanza en la compra de Kenvue por 40 mil millones.</description>
       <pubDate>Wed, 14 Oct 2026 07:00:00 -0400</pubDate>
