@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del sábado 17 de octubre de 2026</title>
+      <description>FTC investiga a OpenAI y Anthropic mientras cae CoreWeave, Character.AI quiebra, TypeSafe capta US$870M, General Catalyst compra Axiom por US$37.500M y Chile cierra 2025 con US$854M en VC (+160%).</description>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-17</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-17.mp3" length="2857824" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+    </item>
+    <item>
       <title>Brief del viernes 16 de octubre de 2026</title>
       <description>Gemini 4 Argón llega a todos los usuarios, Modal Labs capta US$750M a valorización de US$15.750M, Kapital compra Woz Code camino a unicornio de US$2.000M y Televisa-Fintech Holdings adquieren AT&amp;T México por US$2.000M.</description>
       <pubDate>Fri, 16 Oct 2026 07:00:00 -0400</pubDate>
