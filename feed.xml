@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 20 de octubre de 2026</title>
+      <description>Estados Unidos restringe DeepSeek en agencias federales, nuevas rondas unicornio en IA, reporte de venture capital en Chile y fusiones en el sistema financiero chileno.</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-20</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-20.mp3" length="2747232" type="audio/mpeg"/>
+      <itunes:duration>457</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 19 de octubre de 2026</title>
       <description>Rivian evalúa agentes de IA de terceros en sus autos, Disney contrata al equipo de Character.AI en su quiebra, Flex levanta US$2.000M para Axiom, Corfo elige 145 startups y Lufthansa compra 44,9% de TAP Air Portugal.</description>
       <pubDate>Mon, 19 Oct 2026 07:00:00 -0400</pubDate>
