@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 26 de octubre de 2026</title>
+      <description>Economista de Apollo dice que la IA aún no rinde para la mayoría de empresas, OpenAI deja de entrenar con internet en vivo, EQT compra Range Resources por más de 50.000 millones, y LatAm cierra el Q3 con US$1.300 millones en venture capital.</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-26</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-26.mp3" length="2772000" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 25 de octubre de 2026</title>
       <description>OpenAI busca ronda de 30 mil millones a valorización de 1,25 billones antes de su IPO, DeepSeek levanta 15 mil millones pese a vetos de EE.UU., Salesforce compra Braze por 5.700 millones, y Chile cierra 2025 con US$854 millones en venture capital.</description>
       <pubDate>Sun, 25 Oct 2026 07:00:00 -0400</pubDate>
