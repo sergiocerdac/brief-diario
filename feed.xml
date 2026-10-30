@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 30 de octubre de 2026</title>
+      <description>Anthropic presenta su S-1 bajo el ticker ANT, OpenAI deja de entrenar con internet en vivo, Broadcom firma financiamiento IA de 63 mil millones, VC en Chile cierra 2025 en 854 millones, y Salesforce compra Braze por 5.660 millones.</description>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-30</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-30.mp3" length="2909808" type="audio/mpeg"/>
+      <itunes:duration>484</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 29 de octubre de 2026</title>
       <description>Google lanza Gemini 4 Carbon y Genie 4, Anthropic revela exploits y avanza su IPO con JPMorgan, rondas gigantes de capital de riesgo en IA, Corfo busca invertir directo en fondos VC, y tres fusiones multimillonarias fuera de tech.</description>
       <pubDate>Thu, 29 Oct 2026 07:00:00 -0400</pubDate>
