@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del sábado 31 de octubre de 2026</title>
+      <description>OpenAI recorta meta de valorización a 1.25 billones, acuerdo voluntario de la Casa Blanca con grandes de IA, LSEG compra Octus por 3.540 millones, HealthSpan privatiza Surgery Partners por 5.700 millones, y CORFO selecciona 145 startups en Chile.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-10-31</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-10-31.mp3" length="2943792" type="audio/mpeg"/>
+      <itunes:duration>490</itunes:duration>
+    </item>
+    <item>
       <title>Brief del viernes 30 de octubre de 2026</title>
       <description>Anthropic presenta su S-1 bajo el ticker ANT, OpenAI deja de entrenar con internet en vivo, Broadcom firma financiamiento IA de 63 mil millones, VC en Chile cierra 2025 en 854 millones, y Salesforce compra Braze por 5.660 millones.</description>
       <pubDate>Fri, 30 Oct 2026 07:00:00 -0400</pubDate>
