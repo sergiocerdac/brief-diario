@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 1 de noviembre de 2026</title>
+      <description>Anthropic presenta su IPO con pérdidas multimillonarias, récord trimestral de VC global en IA, salto del VC en Chile y el mega acuerdo Paramount-Warner Bros Discovery.</description>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-01</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-01.mp3" length="3057408" type="audio/mpeg"/>
+      <itunes:duration>509</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 31 de octubre de 2026</title>
       <description>OpenAI recorta meta de valorización a 1.25 billones, acuerdo voluntario de la Casa Blanca con grandes de IA, LSEG compra Octus por 3.540 millones, HealthSpan privatiza Surgery Partners por 5.700 millones, y CORFO selecciona 145 startups en Chile.</description>
       <pubDate>Sat, 31 Oct 2026 07:00:00 -0400</pubDate>
