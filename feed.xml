@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 2 de noviembre de 2026</title>
+      <description>Anthropic bloquea Claude Code ante la piratería de videojuegos, la mega ronda de TypeSafe AI, el capital de riesgo mixto en Chile y Latam, y la fusión de 8.200 millones entre AMD y World Labs.</description>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-02</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-02.mp3" length="2880000" type="audio/mpeg"/>
+      <itunes:duration>480</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 1 de noviembre de 2026</title>
       <description>Anthropic presenta su IPO con pérdidas multimillonarias, récord trimestral de VC global en IA, salto del VC en Chile y el mega acuerdo Paramount-Warner Bros Discovery.</description>
       <pubDate>Sun, 01 Nov 2026 07:00:00 -0400</pubDate>
