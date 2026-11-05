@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 5 de noviembre de 2026</title>
+      <description>Anthropic avanza su salida a bolsa y Google achica la brecha de precios en IA; OpenAI modera su ronda; Corfo podría invertir directo en fondos VC en Chile; y las fusiones y adquisiciones repuntan.</description>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-05</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-05.mp3" length="2970720" type="audio/mpeg"/>
+      <itunes:duration>495</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 4 de noviembre de 2026</title>
       <description>Anthropic avanza a su IPO, Fal duplica valorización a 16.000 millones, Corfo propone fondo de fondos de VC en Chile y Aramco compra 49% de Humain.</description>
       <pubDate>Wed, 04 Nov 2026 07:00:00 -0400</pubDate>
