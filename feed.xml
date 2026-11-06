@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del viernes 6 de noviembre de 2026</title>
+      <description>Zipline levanta 1.500 M y vale 21.500 M, Bedrock Robotics y Fal suman rondas gigantes en IA, Tata Motors cierra la compra de Iveco, Thomson Reuters crece con IA y Chile y LatAm reportan más capital de riesgo pero con filtros más exigentes.</description>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-06</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-06.mp3" length="2844576" type="audio/mpeg"/>
+      <itunes:duration>474</itunes:duration>
+    </item>
+    <item>
       <title>Brief del jueves 5 de noviembre de 2026</title>
       <description>Anthropic avanza su salida a bolsa y Google achica la brecha de precios en IA; OpenAI modera su ronda; Corfo podría invertir directo en fondos VC en Chile; y las fusiones y adquisiciones repuntan.</description>
       <pubDate>Thu, 05 Nov 2026 07:00:00 -0400</pubDate>
