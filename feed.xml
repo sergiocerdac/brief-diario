@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del sábado 7 de noviembre de 2026</title>
+      <description>OpenAI negocia ronda de 20 mil millones a valorización de 1,25 billones, Anthropic rumbo a IPO con nuevos modelos Claude, ola de M&amp;A de private equity (Bridgepoint, Dassault, Flex) y Corfo lanza banco de IA para cáncer de mama.</description>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-07</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-07.mp3" length="2809584" type="audio/mpeg"/>
+      <itunes:duration>468</itunes:duration>
+    </item>
+    <item>
       <title>Brief del viernes 6 de noviembre de 2026</title>
       <description>Zipline levanta 1.500 M y vale 21.500 M, Bedrock Robotics y Fal suman rondas gigantes en IA, Tata Motors cierra la compra de Iveco, Thomson Reuters crece con IA y Chile y LatAm reportan más capital de riesgo pero con filtros más exigentes.</description>
       <pubDate>Fri, 06 Nov 2026 07:00:00 -0400</pubDate>
