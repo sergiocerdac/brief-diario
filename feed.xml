@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 8 de noviembre de 2026</title>
+      <description>OpenAI lanza GPT-6 Cyber y avanza ronda a 1,25 billones, Google y Microsoft aceleran infraestructura de IA, venture capital en Chile sube 160% pero cae en LatAm, y repunte global de fusiones y adquisiciones hacia los 4 billones.</description>
+      <pubDate>Sun, 08 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-08</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-08.mp3" length="2880144" type="audio/mpeg"/>
+      <itunes:duration>480</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 7 de noviembre de 2026</title>
       <description>OpenAI negocia ronda de 20 mil millones a valorización de 1,25 billones, Anthropic rumbo a IPO con nuevos modelos Claude, ola de M&amp;A de private equity (Bridgepoint, Dassault, Flex) y Corfo lanza banco de IA para cáncer de mama.</description>
       <pubDate>Sat, 07 Nov 2026 07:00:00 -0400</pubDate>
