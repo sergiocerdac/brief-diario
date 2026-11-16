@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del lunes 16 de noviembre de 2026</title>
+      <description>Anthropic presenta su S-1 y apunta al Nasdaq, Open AI busca ronda de 30 mil millones, investigación interna sacude a Nvidia, mega rondas de VC y Corfo mueve su fondo de fondos en Chile.</description>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-16</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-16.mp3" length="2770992" type="audio/mpeg"/>
+      <itunes:duration>461</itunes:duration>
+    </item>
+    <item>
       <title>Brief del domingo 15 de noviembre de 2026</title>
       <description>Microsoft recorta 4.800 empleos en Xbox, la carrera por agentes de IA se acelera, y Chile vive la paradoja de más capital pero menos acuerdos de venture capital con la convocatoria de Start-Up Chile hasta el 24 de noviembre.</description>
       <pubDate>Sun, 15 Nov 2026 07:00:00 -0400</pubDate>
