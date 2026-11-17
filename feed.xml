@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 17 de noviembre de 2026</title>
+      <description>Anthropic avanza a su IPO y pacta 200 mil millones con Google, rondas gigantes de IA, debate sobre burbuja de inversión en cómputo, VC en Chile y Latam, y fusiones en aeroespacial y ciberseguridad.</description>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-17</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-17.mp3" length="2897280" type="audio/mpeg"/>
+      <itunes:duration>482</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 16 de noviembre de 2026</title>
       <description>Anthropic presenta su S-1 y apunta al Nasdaq, Open AI busca ronda de 30 mil millones, investigación interna sacude a Nvidia, mega rondas de VC y Corfo mueve su fondo de fondos en Chile.</description>
       <pubDate>Mon, 16 Nov 2026 07:00:00 -0400</pubDate>
