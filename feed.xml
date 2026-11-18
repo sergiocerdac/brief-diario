@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del miércoles 18 de noviembre de 2026</title>
+      <description>Anthropic fija precio de su IPO cerca de un billón de dólares, Estados Unidos restringe chips de IA al sudeste asiático, nuevas mega rondas de venture capital, cumbre ACVC en Santiago y fusiones en software y ciberseguridad.</description>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-18</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-18.mp3" length="3077568" type="audio/mpeg"/>
+      <itunes:duration>512</itunes:duration>
+    </item>
+    <item>
       <title>Brief del martes 17 de noviembre de 2026</title>
       <description>Anthropic avanza a su IPO y pacta 200 mil millones con Google, rondas gigantes de IA, debate sobre burbuja de inversión en cómputo, VC en Chile y Latam, y fusiones en aeroespacial y ciberseguridad.</description>
       <pubDate>Tue, 17 Nov 2026 07:00:00 -0400</pubDate>
