@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 19 de noviembre de 2026</title>
+      <description>Acuerdo de 30 mil millones entre Microsoft, Nvidia y Anthropic, código rojo en OpenAI, cumbre de venture capital en Santiago con fondo de fondos, cierre de Start Up Chile y récord global de fusiones y adquisiciones.</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-19</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-19.mp3" length="2773008" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 18 de noviembre de 2026</title>
       <description>Anthropic fija precio de su IPO cerca de un billón de dólares, Estados Unidos restringe chips de IA al sudeste asiático, nuevas mega rondas de venture capital, cumbre ACVC en Santiago y fusiones en software y ciberseguridad.</description>
       <pubDate>Wed, 18 Nov 2026 07:00:00 -0400</pubDate>
