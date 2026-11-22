@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del domingo 22 de noviembre de 2026</title>
+      <description>AMD compra World Labs por ocho mil doscientos millones, ronda de robótica de Genesis AI, cierre de la Chile Tech Week y la guerra de precios entre proveedores de inteligencia artificial.</description>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-22</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-22.mp3" length="2866320" type="audio/mpeg"/>
+      <itunes:duration>477</itunes:duration>
+    </item>
+    <item>
       <title>Brief del sábado 21 de noviembre de 2026</title>
       <description>Palo Alto Networks compra Applied Compute, Bill Holdings sale de bolsa con TPG y Corpay, la cumbre de la ACVC debate el fondo de fondos de Corfo y nuevos datos de PitchBook sobre venture capital en América Latina.</description>
       <pubDate>Sat, 21 Nov 2026 07:00:00 -0400</pubDate>
