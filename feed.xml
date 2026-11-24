@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del martes 24 de noviembre de 2026</title>
+      <description>Nvidia pierde 430 mil millones en bolsa, China bloquea compra de SoftBank a ABB, Open AI y Kalshi mueven capital gigante, y cierra hoy la convocatoria de Startup Chile.</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-24</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-24.mp3" length="2835792" type="audio/mpeg"/>
+      <itunes:duration>472</itunes:duration>
+    </item>
+    <item>
       <title>Brief del lunes 23 de noviembre de 2026</title>
       <description>Isomorphic Labs levanta 5.000 millones de dólares, TSMC evalúa invertir en Anthropic y OpenAI, Vambe cierra ronda en Chile y cierra la convocatoria de Startup Chile.</description>
       <pubDate>Mon, 23 Nov 2026 07:00:00 -0400</pubDate>
