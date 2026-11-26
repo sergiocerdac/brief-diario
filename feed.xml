@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del jueves 26 de noviembre de 2026</title>
+      <description>Nvidia y los mercados tecnológicos siguen nerviosos tras la salida de Jensen Huang, Open AI y Google lanzan nuevos modelos, Open AI busca ronda a un billón 250 mil millones, VC en LatAm sube 51% y Long Lake compra Amex GBT por 6.300 millones.</description>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-26</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-26.mp3" length="2972592" type="audio/mpeg"/>
+      <itunes:duration>495</itunes:duration>
+    </item>
+    <item>
       <title>Brief del miércoles 25 de noviembre de 2026</title>
       <description>Anthropic cierra la IPO más grande de la historia, Microsoft sufre apagón global, Chile firma acuerdo con Open AI y créditos de Eleven Labs para startups, y Palo Alto Networks compra Applied Compute.</description>
       <pubDate>Wed, 25 Nov 2026 07:00:00 -0400</pubDate>
