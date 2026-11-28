@@ -10,6 +10,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://sergiocerdac.github.io/brief-diario/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Brief del sábado 28 de noviembre de 2026</title>
+      <description>Open AI corta a Cursor tras compra de Space X, ronda de mil millones para Mirendil, México supera a Brasil en VC, fondo de fondos de Corfo avanza y Televisa compra AT&amp;T México.</description>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">brief-2026-11-28</guid>
+      <enclosure url="https://sergiocerdac.github.io/brief-diario/episodes/2026-11-28.mp3" length="2965968" type="audio/mpeg"/>
+      <itunes:duration>494</itunes:duration>
+    </item>
+    <item>
       <title>Brief del viernes 27 de noviembre de 2026</title>
       <description>Sierra levanta 1.750 millones a valoración de 30 mil millones, semana récord de financiamiento en IA, acuerdo entre OpenAI, Google, Microsoft y Anthropic sobre datos de medios, y Vambe avanza en Brasil.</description>
       <pubDate>Fri, 27 Nov 2026 07:00:00 -0400</pubDate>
